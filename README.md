@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam188132&label=Profile%20views&color=0e75b6&style=flat" alt="shivam188132" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam188132" alt="shivam188132" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://github.com/shivam188132/100-days-of-code)
 
@@ -38,3 +38,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam188132&show_icons=true&locale=en&layout=compact" alt="shivam188132" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam188132&show_icons=true&locale=en" alt="shivam188132" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam188132&" alt="shivam188132" /></p>
