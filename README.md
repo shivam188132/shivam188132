@@ -1,15 +1,17 @@
-[![MasterHead](https://www.mjvinnovation.com/wp-content/uploads/2021/07/Etapas-do-Data-Science-para-aplicar-na-sua-empresa.gif)]()
+ <img align="right" alt="Coding" width="1000" height='350' src="https://www.mjvinnovation.com/wp-content/uploads/2021/07/Etapas-do-Data-Science-para-aplicar-na-sua-empresa.gif">
+
 <h1 align="center">Hi 👋, I'm Shivam kumar</h1>
 <h3 align="center">I aspire to become a proficient Data Scientist and a Web devloper</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://github.com/shivam188132/100-days-of-code)
 
 - 🌱 I’m currently learning **Machine Learning**
-
+  
 - 👯 I’m looking to collaborate on [Data Science world](https://github.com/shivam188132)
+  <img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 - 🤝 I’m looking for help with **My skills in Analytical Thinking, Problem-Solving, Communication Skills, Time Management**
 
