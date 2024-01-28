@@ -3,8 +3,6 @@
 <h3 align="center">I aspire to become a proficient Data Scientist and a Web devloper</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam188132&label=Profile%20views&color=0e75b6&style=flat" alt="shivam188132" /> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://github.com/shivam188132/100-days-of-code)
@@ -27,9 +25,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shivam-kumar-5a6b42237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivam-kumar-5a6b42237/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/its_shivam_krr?igshid=nzzlodbkywe4ng==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/its_shivam_krr?igshid=nzzlodbkywe4ng==" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/shivamkumar819991/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shivamkumar819991/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shivam-kumar-5a6b42237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-kumar-5a6b42237" height="30" width="40" /></a>
+<a href="https://instagram.com/its_shivam_krr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_shivam_krr" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shivamkumar819991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivamkumar819991" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -40,3 +38,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam188132&show_icons=true&locale=en" alt="shivam188132" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam188132&" alt="shivam188132" /></p>
+
