@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **My skills in Analytical Thinking, Problem-Solving, Communication Skills, Time Management**
 
-- 👨‍💻 All of my projects are available at [https://shivam188132.github.io/portfolio_website/](https://shivam188132.github.io/portfolio_website/)
+- 👨‍💻 All of my projects are available at [https://shivam188132.github.io/portfolio_website/](https://shivam188132.github.io/portfolio_website_2/)
 
 - 📝 I regularly write articles on [https://blog-service819991.onrender.com](https://blog-service819991.onrender.com)
 
