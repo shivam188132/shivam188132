@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **Shivamkumar819991@gmail.com**
 
-- 📄 Know about my experiences [https://shivam188132.github.io/portfolio_website/images/resume.pdf](https://shivam188132.github.io/portfolio_website/images/resume.pdf)
+- 📄 Know about my experiences [https://shivam188132.github.io/portfolio_website/images/resume.pdf](https://drive.google.com/file/d/1iY2feTzHSnBEED-AXFLKvUy3hsx_Z60C/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
