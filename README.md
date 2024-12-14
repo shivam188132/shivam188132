@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Machine Learning**
   
 - 👯 I’m looking to collaborate on [Data Science world](https://github.com/shivam188132)
-  <img align="right" alt="Coding" width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3I1N29leXlmNnZqbDh4emQxbmRnc3Q5ZWxtZWs5bDFmZGRjbzNoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif">
+  <img align="right" alt="Coding" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3I1N29leXlmNnZqbDh4emQxbmRnc3Q5ZWxtZWs5bDFmZGRjbzNoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif">
 
 - 🤝 I’m looking for help with **My skills in Analytical Thinking, Problem-Solving, Communication Skills, Time Management**
 
