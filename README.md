@@ -4,7 +4,7 @@
 <h3 align="center">I aspire to become a proficient Data Scientist and a Web devloper</h3>
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3I1N29leXlmNnZqbDh4emQxbmRnc3Q5ZWxtZWs5bDFmZGRjbzNoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://github.com/shivam188132/100-days-of-code)
 
