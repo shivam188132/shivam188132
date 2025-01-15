@@ -1,7 +1,7 @@
  <img align="right" alt="Coding" width="1000" height='350' src="https://www.mjvinnovation.com/wp-content/uploads/2021/07/Etapas-do-Data-Science-para-aplicar-na-sua-empresa.gif">
 
 <h1 align="center">Hi 👋, I'm Shivam kumar</h1>
-<h3 align="center">I aspire to become a proficient Data Scientist and a Web devloper</h3>
+<h3 align="center">I aspire to become a proficient Data Scientist</h3>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="" alt="" /></a> </p>
